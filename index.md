@@ -4,3 +4,4 @@ I currently use this repository for some personal notes I take while exploring s
 
 Zur Zeit benutze ich diese Ablage für ein paar persönliche Notizen die ich während der Erkundigung einiger Technologien im Umfeld von Opensimulator, Blender und GIMP festhalte. Meistens schreibe ich diese Notizen in meiner deutschen Muttersprache. Wenn es einfacher ist, dann benutze ich aber auch English. Was hier geschrieben steht sind rein private Notizen, die nicht unbedingt genau oder richtig sind.
 
+[Creating Terrain in Blender](https://petergloor.github.io/notes/notes/creating_terrain)
