@@ -14,7 +14,12 @@
 ### Setup Nodes
 
 
+# Render
+Press F12 to Render
+
 ### Save Terrain File (png)
+Render Result -> Image
+Save as PNG, BW, Color Depth: 16
 
 
 ### Import to OpenSim
